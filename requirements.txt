@@ -1,0 +1,6 @@
+beautifulsoup4==4.11.1
+docx==0.2.4
+openai==0.27.8
+python_docx==0.8.11
+Requests==2.31.0
+streamlit==1.12.0
