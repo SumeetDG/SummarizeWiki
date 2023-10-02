@@ -11,7 +11,7 @@ url= st.text_input("Enter the URL here:")
 
 done=st.button("Summarize",key="1")
 
-st.secrets.toml("secrets.toml")
+#st.secrets.toml("secrets.toml")
 api_key1 = st.secrets["api_keys"]["api_key1"]
 api_key2 = st.secrets["api_keys"]["api_key2"]
 
